@@ -1,0 +1,5 @@
+
+hsquid:S1192"GDefine a constant instead of duplicating this literal "client" 3 times.(—ý¿ïÿÿÿÿÿ8÷Ñ›³Ž-
+_squid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ú¿Ìã
+csquid:S1192"HDefine a constant instead of duplicating this literal "clients" 4 times.(ƒ»ü8Ñ›˜³Ž-
+bsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ž–û‚ùÿÿÿÿ
